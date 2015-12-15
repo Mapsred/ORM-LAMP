@@ -1,1 +1,0 @@
-chown -R supinternet:supinternet *
