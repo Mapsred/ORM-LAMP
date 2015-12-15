@@ -1,0 +1,4 @@
+Model/Database/*
+bootstrap.html
+logs/*
+perm.sh
