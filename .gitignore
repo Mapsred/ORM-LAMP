@@ -1,4 +1,4 @@
-Models/Database/*
+Model/Database/*
 logs/*
 perm.sh
 bootstrap.html
